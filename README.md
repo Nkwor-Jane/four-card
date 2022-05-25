@@ -1,4 +1,4 @@
-# four-card
+# Four Card Feature Section
 - [Overview](#overview)
 - [Screenshot](#screenshot)
 - [Links](#links)
